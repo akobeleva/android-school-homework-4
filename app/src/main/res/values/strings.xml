@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework 4</string>
+    <string name="avatarDescription">avatar</string>
+    <string name="phoneViewDescription">phoneView</string>
+    <string name="atViewDescription">atView</string>
+    <string name="vkButtonDescription">vkButton</string>
+    <string name="telegramButtonDescription">telegramButton</string>
+    <string name="whatsappButtonDescription">whatsappButton</string>
+    <string name="callButtonDescription">callButton</string>
+    <string name="messageButtonDescription">messageButton</string>
+    <string name="locationPointDescription">locationPoint</string>
+</resources>
